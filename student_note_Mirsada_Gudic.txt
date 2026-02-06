@@ -1,0 +1,3 @@
+Ime: Mirsada Gudic
+Datum: 06.02.2026.
+Napomena: Moj prvi commit
